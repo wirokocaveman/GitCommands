@@ -1,0 +1,11 @@
+D:\MyGit\gitcommands\ps_changedir\ps_changedir\bin\Debug\ps_changedir.exe.config
+D:\MyGit\gitcommands\ps_changedir\ps_changedir\bin\Debug\ps_changedir.exe
+D:\MyGit\gitcommands\ps_changedir\ps_changedir\bin\Debug\ps_changedir.pdb
+D:\MyGit\gitcommands\ps_changedir\ps_changedir\bin\Debug\ps_changedir.xml
+D:\MyGit\gitcommands\ps_changedir\ps_changedir\obj\Debug\ps_changedir.vbprojAssemblyReference.cache
+D:\MyGit\gitcommands\ps_changedir\ps_changedir\obj\Debug\ps_changedir.Resources.resources
+D:\MyGit\gitcommands\ps_changedir\ps_changedir\obj\Debug\ps_changedir.vbproj.GenerateResource.cache
+D:\MyGit\gitcommands\ps_changedir\ps_changedir\obj\Debug\ps_changedir.vbproj.CoreCompileInputs.cache
+D:\MyGit\gitcommands\ps_changedir\ps_changedir\obj\Debug\ps_changedir.exe
+D:\MyGit\gitcommands\ps_changedir\ps_changedir\obj\Debug\ps_changedir.xml
+D:\MyGit\gitcommands\ps_changedir\ps_changedir\obj\Debug\ps_changedir.pdb
